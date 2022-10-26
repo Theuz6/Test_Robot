@@ -1,0 +1,12 @@
+{
+    "ros.distro": "foxy",
+    "python.autoComplete.extraPaths": [
+        "/home/matheus/dev_ws/build/urdf_tutorial_r2d2",
+        "/home/matheus/dev_ws/install/urdf_tutorial_r2d2/lib/python3.8/site-packages",
+        "/home/matheus/dev_ws/install/turtlesim/lib/python3.8/site-packages",
+        "/home/matheus/dev_ws/install/python_pacoteros/lib/python3.8/site-packages",
+        "/home/matheus/dev_ws/install/py_topic/lib/python3.8/site-packages",
+        "/home/matheus/dev_ws/install/py_project/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ]
+}
